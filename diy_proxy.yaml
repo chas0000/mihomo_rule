@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,docker.com
-  - DOMAIN,fsm.name
-  - DOMAIN,kelu.one
-  - DOMAIN,serv00.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,fsm.name
+  - DOMAIN-SUFFIX,kelu.one
+  - DOMAIN-SUFFIX,serv00.com
