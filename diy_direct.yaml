@@ -1,3 +1,5 @@
 payload:
   - DOMAIN,cloudfs.zhenyunpan.com
   - IP-CIDR,172.0.0.0/12
+  - IP-CIDR,192.168.31.0/24
+  - IP-CIDR,192.168.32.0/24
